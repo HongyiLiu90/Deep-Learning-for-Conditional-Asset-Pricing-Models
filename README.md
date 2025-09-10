@@ -205,6 +205,7 @@ The model uses MSE loss and Adam optimizer
 Features are scaled independently for firm characteristics and common factors
 
 Citation
+
 @misc{liu2025deeplearningconditionalasset,
       title={Deep Learning for Conditional Asset Pricing Models}, 
       author={Hongyi Liu},
