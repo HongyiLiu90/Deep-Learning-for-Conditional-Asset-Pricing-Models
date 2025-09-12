@@ -206,12 +206,11 @@ Features are scaled independently for firm characteristics and common factors
 
 Citation
 
-@misc{liu2025deeplearningconditionalasset,
-      title={Deep Learning for Conditional Asset Pricing Models}, 
-      author={Hongyi Liu},
-      year={2025},
-      eprint={2509.04812},
-      archivePrefix={arXiv},
-      primaryClass={q-fin.CP},
-      url={https://arxiv.org/abs/2509.04812}, 
+
+@article{liu2025deep,
+  title={Deep Learning for Conditional Asset Pricing Models},
+  author={Liu, Hongyi},
+  journal={arXiv preprint arXiv:2509.04812},
+  year={2025}
 }
+
